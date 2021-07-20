@@ -1,6 +1,12 @@
 # text_animation
 
-A new Flutter project.
+A really nice package to handle text animation in Flutter: [Animated Text Kit](https://pub.dev/packages/animated_text_kit#usage).
+
+## Some Visual Results
+
+<p align = "center">
+<img src="/images/image01.gif" width="250">
+</p>
 
 ## Getting Started
 
